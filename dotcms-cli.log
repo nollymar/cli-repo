@@ -1,0 +1,9 @@
+2024-03-01 13:22:37,246 nollymars-macbook-pro NativeImageGeneratorRunner$JDK9Plus[9261] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-03-01 13:22:37,248 nollymars-macbook-pro NativeImageGeneratorRunner$JDK9Plus[9261] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-03-01 13:22:37,248 nollymars-macbook-pro NativeImageGeneratorRunner$JDK9Plus[9261] INFO  [com.dot.com.WorkspaceManagerImpl] (main) looking up workspace, current path is : /Users/nollymarlonga/workspace-dotcms/cli-repo and parent is /Users/nollymarlonga/workspace-dotcms
+2024-03-01 13:22:38,269 nollymars-macbook-pro NativeImageGeneratorRunner$JDK9Plus[9261] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-03-01 13:22:38,269 nollymars-macbook-pro NativeImageGeneratorRunner$JDK9Plus[9261] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/nollymarlonga/workspace-dotcms/cli-repo
+2024-03-01 13:22:41,580 nollymars-macbook-pro NativeImageGeneratorRunner$JDK9Plus[9261] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-03-01 13:22:41,580 nollymars-macbook-pro NativeImageGeneratorRunner$JDK9Plus[9261] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/nollymarlonga/workspace-dotcms/cli-repo
+2024-03-01 13:22:47,424 nollymars-macbook-pro NativeImageGeneratorRunner$JDK9Plus[9261] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-03-01 13:22:47,424 nollymars-macbook-pro NativeImageGeneratorRunner$JDK9Plus[9261] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/nollymarlonga/workspace-dotcms/cli-repo

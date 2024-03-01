@@ -1,0 +1,56 @@
+{
+  "clazz" : "SimpleContentType",
+  "dotCMSObjectType" : "ContentType",
+  "id" : "4c441ada-944a-43af-a653-9bb4f3f0cb2b",
+  "name" : "Banner",
+  "variable" : "Banner",
+  "modDate" : "2024-02-28T22:36:36.000+00:00",
+  "iDate" : "2017-03-09T19:15:45.734+00:00",
+  "host" : "SYSTEM_HOST",
+  "folder" : "SYSTEM_FOLDER",
+  "siteName" : "systemHost",
+  "folderPath" : "/",
+  "icon" : "image_aspect_ratio",
+  "description" : "Hero image used on homepage and landing pages",
+  "baseType" : "CONTENT",
+  "layout" : [ {
+    "divider" : {
+      "clazz" : "RowField",
+      "modDate" : "2024-03-01T18:22:44.000+00:00",
+      "name" : "Row Field",
+      "sortOrder" : -1,
+      "contentTypeId" : "4c441ada-944a-43af-a653-9bb4f3f0cb2b",
+      "fieldType" : "Row",
+      "fieldTypeLabel" : "Row",
+      "iDate" : "2024-03-01T18:22:44.000+00:00",
+      "dataType" : "SYSTEM"
+    },
+    "columns" : [ {
+      "columnDivider" : {
+        "clazz" : "ColumnField",
+        "modDate" : "2024-03-01T18:22:44.000+00:00",
+        "name" : "Column Field",
+        "sortOrder" : -1,
+        "contentTypeId" : "4c441ada-944a-43af-a653-9bb4f3f0cb2b",
+        "fieldType" : "Column",
+        "fieldTypeLabel" : "Column",
+        "iDate" : "2024-03-01T18:22:44.000+00:00",
+        "dataType" : "SYSTEM"
+      },
+      "fields" : [ ]
+    } ]
+  } ],
+  "workflows" : [ {
+    "archived" : false,
+    "creationDate" : "2024-03-01T18:18:13.117+00:00",
+    "defaultScheme" : false,
+    "description" : "",
+    "entryActionId" : null,
+    "id" : "d61a59e1-a49c-46f2-a929-db2b4bfa88b2",
+    "mandatory" : false,
+    "modDate" : "2024-02-01T22:18:30.205+00:00",
+    "name" : "System Workflow",
+    "system" : true
+  } ],
+  "systemActionMappings" : { }
+}

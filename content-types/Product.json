@@ -1,0 +1,57 @@
+{
+  "clazz" : "SimpleContentType",
+  "dotCMSObjectType" : "ContentType",
+  "id" : "a1661fbc-9e84-4c00-bd62-76d633170da3",
+  "name" : "Product",
+  "variable" : "Product",
+  "modDate" : "2024-02-28T22:36:36.000+00:00",
+  "iDate" : "2019-07-12T14:11:45.000+00:00",
+  "host" : "736a4470e2ed7714a26fe6b0175086fe",
+  "folder" : "SYSTEM_FOLDER",
+  "siteName" : "demo.dotcms.com",
+  "folderPath" : "/",
+  "icon" : "inventory",
+  "baseType" : "CONTENT",
+  "layout" : [ {
+    "divider" : {
+      "clazz" : "RowField",
+      "modDate" : "2024-03-01T18:22:44.000+00:00",
+      "name" : "Row Field",
+      "sortOrder" : -1,
+      "contentTypeId" : "a1661fbc-9e84-4c00-bd62-76d633170da3",
+      "fieldType" : "Row",
+      "fieldTypeLabel" : "Row",
+      "iDate" : "2024-03-01T18:22:44.000+00:00",
+      "dataType" : "SYSTEM"
+    },
+    "columns" : [ {
+      "columnDivider" : {
+        "clazz" : "ColumnField",
+        "modDate" : "2024-03-01T18:22:44.000+00:00",
+        "name" : "Column Field",
+        "sortOrder" : -1,
+        "contentTypeId" : "a1661fbc-9e84-4c00-bd62-76d633170da3",
+        "fieldType" : "Column",
+        "fieldTypeLabel" : "Column",
+        "iDate" : "2024-03-01T18:22:44.000+00:00",
+        "dataType" : "SYSTEM"
+      },
+      "fields" : [ ]
+    } ]
+  } ],
+  "detailPage" : "1ef9be0e-7610-4c69-afdb-d304c8aabfac",
+  "urlMapPattern" : "/store/products/{urlTitle}",
+  "workflows" : [ {
+    "archived" : false,
+    "creationDate" : "2024-03-01T18:18:13.135+00:00",
+    "defaultScheme" : false,
+    "description" : "",
+    "entryActionId" : null,
+    "id" : "d61a59e1-a49c-46f2-a929-db2b4bfa88b2",
+    "mandatory" : false,
+    "modDate" : "2024-02-01T22:18:30.205+00:00",
+    "name" : "System Workflow",
+    "system" : true
+  } ],
+  "systemActionMappings" : { }
+}

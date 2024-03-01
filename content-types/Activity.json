@@ -1,0 +1,58 @@
+{
+  "clazz" : "SimpleContentType",
+  "dotCMSObjectType" : "ContentType",
+  "id" : "778f3246-9b11-4a2a-a101-e7fdf111bdad",
+  "name" : "Activity",
+  "variable" : "Activity",
+  "modDate" : "2024-02-28T22:36:36.000+00:00",
+  "iDate" : "2019-09-06T14:06:10.000+00:00",
+  "host" : "736a4470e2ed7714a26fe6b0175086fe",
+  "folder" : "SYSTEM_FOLDER",
+  "siteName" : "demo.dotcms.com",
+  "folderPath" : "/",
+  "icon" : "paragliding",
+  "description" : "Activities available at desitnations",
+  "baseType" : "CONTENT",
+  "layout" : [ {
+    "divider" : {
+      "clazz" : "RowField",
+      "modDate" : "2024-03-01T18:22:44.000+00:00",
+      "name" : "Row Field",
+      "sortOrder" : -1,
+      "contentTypeId" : "778f3246-9b11-4a2a-a101-e7fdf111bdad",
+      "fieldType" : "Row",
+      "fieldTypeLabel" : "Row",
+      "iDate" : "2024-03-01T18:22:44.000+00:00",
+      "dataType" : "SYSTEM"
+    },
+    "columns" : [ {
+      "columnDivider" : {
+        "clazz" : "ColumnField",
+        "modDate" : "2024-03-01T18:22:44.000+00:00",
+        "name" : "Column Field",
+        "sortOrder" : -1,
+        "contentTypeId" : "778f3246-9b11-4a2a-a101-e7fdf111bdad",
+        "fieldType" : "Column",
+        "fieldTypeLabel" : "Column",
+        "iDate" : "2024-03-01T18:22:44.000+00:00",
+        "dataType" : "SYSTEM"
+      },
+      "fields" : [ ]
+    } ]
+  } ],
+  "detailPage" : "e5f131d2-1952-4596-bbbf-28fb28021b68",
+  "urlMapPattern" : "/activities/{urlTitle}",
+  "workflows" : [ {
+    "archived" : false,
+    "creationDate" : "2024-03-01T18:18:13.115+00:00",
+    "defaultScheme" : false,
+    "description" : "",
+    "entryActionId" : null,
+    "id" : "d61a59e1-a49c-46f2-a929-db2b4bfa88b2",
+    "mandatory" : false,
+    "modDate" : "2024-02-01T22:18:30.205+00:00",
+    "name" : "System Workflow",
+    "system" : true
+  } ],
+  "systemActionMappings" : { }
+}

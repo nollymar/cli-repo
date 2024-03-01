@@ -1,0 +1,55 @@
+{
+  "clazz" : "SimpleContentType",
+  "dotCMSObjectType" : "ContentType",
+  "id" : "6044a806-f462-4977-a353-57539eac2a2c",
+  "name" : "Blog Comment",
+  "variable" : "BlogComment",
+  "modDate" : "2024-02-28T22:36:36.000+00:00",
+  "iDate" : "2019-04-11T21:15:11.000+00:00",
+  "host" : "736a4470e2ed7714a26fe6b0175086fe",
+  "folder" : "SYSTEM_FOLDER",
+  "siteName" : "demo.dotcms.com",
+  "folderPath" : "/",
+  "icon" : "comment",
+  "baseType" : "CONTENT",
+  "layout" : [ {
+    "divider" : {
+      "clazz" : "RowField",
+      "modDate" : "2024-03-01T18:22:45.000+00:00",
+      "name" : "Row Field",
+      "sortOrder" : -1,
+      "contentTypeId" : "6044a806-f462-4977-a353-57539eac2a2c",
+      "fieldType" : "Row",
+      "fieldTypeLabel" : "Row",
+      "iDate" : "2024-03-01T18:22:45.000+00:00",
+      "dataType" : "SYSTEM"
+    },
+    "columns" : [ {
+      "columnDivider" : {
+        "clazz" : "ColumnField",
+        "modDate" : "2024-03-01T18:22:45.000+00:00",
+        "name" : "Column Field",
+        "sortOrder" : -1,
+        "contentTypeId" : "6044a806-f462-4977-a353-57539eac2a2c",
+        "fieldType" : "Column",
+        "fieldTypeLabel" : "Column",
+        "iDate" : "2024-03-01T18:22:45.000+00:00",
+        "dataType" : "SYSTEM"
+      },
+      "fields" : [ ]
+    } ]
+  } ],
+  "workflows" : [ {
+    "archived" : false,
+    "creationDate" : "2024-03-01T18:18:13.119+00:00",
+    "defaultScheme" : false,
+    "description" : "",
+    "entryActionId" : null,
+    "id" : "d61a59e1-a49c-46f2-a929-db2b4bfa88b2",
+    "mandatory" : false,
+    "modDate" : "2024-02-01T22:18:30.205+00:00",
+    "name" : "System Workflow",
+    "system" : true
+  } ],
+  "systemActionMappings" : { }
+}

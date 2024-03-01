@@ -1,0 +1,58 @@
+{
+  "clazz" : "SimpleContentType",
+  "dotCMSObjectType" : "ContentType",
+  "id" : "f6259cc9-5d78-453e-8167-efd7b72b2e96",
+  "name" : "Event",
+  "variable" : "calendarEvent",
+  "modDate" : "2024-02-28T22:36:36.000+00:00",
+  "iDate" : "2014-08-05T15:18:23.938+00:00",
+  "host" : "SYSTEM_HOST",
+  "folder" : "SYSTEM_FOLDER",
+  "siteName" : "systemHost",
+  "folderPath" : "/",
+  "icon" : "calendar_today",
+  "description" : "Calendar and events",
+  "baseType" : "CONTENT",
+  "layout" : [ {
+    "divider" : {
+      "clazz" : "RowField",
+      "modDate" : "2024-03-01T18:22:47.000+00:00",
+      "name" : "Row Field",
+      "sortOrder" : -1,
+      "contentTypeId" : "f6259cc9-5d78-453e-8167-efd7b72b2e96",
+      "fieldType" : "Row",
+      "fieldTypeLabel" : "Row",
+      "iDate" : "2024-03-01T18:22:47.000+00:00",
+      "dataType" : "SYSTEM"
+    },
+    "columns" : [ {
+      "columnDivider" : {
+        "clazz" : "ColumnField",
+        "modDate" : "2024-03-01T18:22:47.000+00:00",
+        "name" : "Column Field",
+        "sortOrder" : -1,
+        "contentTypeId" : "f6259cc9-5d78-453e-8167-efd7b72b2e96",
+        "fieldType" : "Column",
+        "fieldTypeLabel" : "Column",
+        "iDate" : "2024-03-01T18:22:47.000+00:00",
+        "dataType" : "SYSTEM"
+      },
+      "fields" : [ ]
+    } ]
+  } ],
+  "detailPage" : "21a6f1b0-cd4f-4ea9-8fa8-024cf338d24b",
+  "urlMapPattern" : "/events/{urlTitle}",
+  "workflows" : [ {
+    "archived" : false,
+    "creationDate" : "2024-03-01T18:18:13.127+00:00",
+    "defaultScheme" : false,
+    "description" : "",
+    "entryActionId" : null,
+    "id" : "d61a59e1-a49c-46f2-a929-db2b4bfa88b2",
+    "mandatory" : false,
+    "modDate" : "2024-02-01T22:18:30.205+00:00",
+    "name" : "System Workflow",
+    "system" : true
+  } ],
+  "systemActionMappings" : { }
+}
